@@ -1,4 +1,4 @@
-package yycg.util;
+﻿package yycg.util;
 
 import java.util.List;
 
@@ -9,7 +9,7 @@ import net.sourceforge.pinyin4j.format.exception.*;
 public class Convert {
    
  /*
-  * 获取汉字全拼
+  * 获取汉字全拼1
   */
   public static String getAllLeter(String args) {
 	String conver=""+"";
