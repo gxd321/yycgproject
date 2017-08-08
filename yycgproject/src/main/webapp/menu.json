@@ -1,0 +1,11 @@
+{
+   "menus" : [{"icon" : "icon-sys","menuid" : "1","menuname" : "系统管理","url" : "","menus" : [
+                 {"icon" : "icon-log","menuid" : "1_1","menuname" : "用户管理","url" : "/yycgproject/user/queryuser.action"
+                 }] 
+               },
+               {"icon" : "icon-sys","menuid" : "2","menuname" : "药品目录","url" : "","menus" : [
+                 {"icon" : "icon-log","menuid" : "1_1","menuname" : "药品目录的导出","url" : "/yycgproject/ypml/exportYpxx.action"
+                 }] 
+               }
+             ]
+}
